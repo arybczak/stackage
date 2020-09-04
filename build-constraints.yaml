@@ -4393,6 +4393,10 @@ packages:
         - zenacy-html
         - zenacy-unicode
 
+    "Andrzej Rybczak <andrzej@rybczak.net> @arybczak":
+        - hpqtypes
+        - hpqtypes-extras
+
     "Grandfathered dependencies":
         - network
         - Boolean
@@ -4876,7 +4880,6 @@ packages:
     "Unmaintained packages with compilation failures":
         - doctest-discover-configurator < 0
         - haskell-tools-builtin-refactorings < 0 # bounds failure
-        - hpqtypes < 0 # bounds failure
         - stackage-types < 0
 
      # If you want to make sure a package is removed from stackage,
